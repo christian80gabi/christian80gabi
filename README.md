@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_12686644.htm#page=2&query=coding&position=4&from_view=search" width="100"/>
+  <img src="https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?t=st=1653668151~exp=1653668751~hmac=4132f4a9399fd36cc1df34f340785a5db529f40d999b645d26610d05f84fb771&w=1380" width="100"/>
   <div id="badges">
     <a href="#">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
