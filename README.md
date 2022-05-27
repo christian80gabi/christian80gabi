@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://www.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_12686644.htm#page=2&query=coding&position=4&from_view=search" width="100"/>
   <div id="badges">
     <a href="#">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
