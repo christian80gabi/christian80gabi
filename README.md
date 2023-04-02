@@ -33,7 +33,7 @@
 made with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christian80gabi&count_private=true&theme=transparent" alt="Overall Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christian80gabi&count_private=true&theme=github_dark" height="400" alt="Overall Stats"/>
   
   <br><br>
   
