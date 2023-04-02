@@ -14,7 +14,10 @@
   <h1>Hi there 👋🏾</h1>
 </div>
 
-- ⚡ Fun fact: _Original name of Microsoft Windows was **“Interface Manager”**_ 😄
+<br>
+
+![Profile](./profile_illustration.svg)
+<img src=".assets/profile_illustration.svg">
 
 <br>
 
