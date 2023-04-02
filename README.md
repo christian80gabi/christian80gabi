@@ -27,19 +27,25 @@
 - 📫 How to reach me: [![Twitter Badge](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fchristian80gabi)](https://twitter.com/christian80gabi)
 - ⚡ Fun fact: _Original name of Microsoft Windows was **“Interface Manager”**_ 😄
 
+<br>
+
 ## Some stats. Yay! 😁
 made with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christian80gabi&show_icons=true&theme=vue-dark&langs_count=8" alt="Most Used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christian80gabi&show_icons=true&theme=vue-dark&layout=compact" alt="Most Used languages">
   
   <br>
   
   <img src="https://github-readme-stats.vercel.app/api?username=christian80gabi&count_private=true&show_icons=true&theme=vue-dark" alt="GitHub Stats">
   
   <br>
-    
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christian80gabi&theme=github_dark" alt="Contributions"/>
+  <!-- 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=christian80gabi" alt="Week Stats"/>
+  
+  <br>
+  -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christian80gabi&theme=transparent" alt="Overall Stats"/>
 </div>
 
 <!-- More GitHub Pins
