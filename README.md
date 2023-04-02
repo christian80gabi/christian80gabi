@@ -16,8 +16,8 @@
 
 <br>
 
-![Profile](./profile_illustration.svg)
-<img src=".assets/profile_illustration.svg">
+![Profile](assets/profile_illustration.svg)
+<img src="assets/profile_illustration.svg">
 
 <br>
 
