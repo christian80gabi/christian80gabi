@@ -29,23 +29,24 @@
 
 <br>
 
-## Some stats (Only Public projects). Yay! 😁
+## Some stats. Yay! 😁
 made with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christian80gabi&show_icons=true&theme=vue-dark&layout=compact" alt="Most Used languages">
-  
-  <br>
-  
   <img src="https://github-readme-stats.vercel.app/api?username=christian80gabi&count_private=true&show_icons=true&theme=vue-dark" alt="GitHub Stats">
   
   <br>
+  <strong>Only Public projects</strong>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christian80gabi&theme=vue-dark&layout=compact&langs_count=8" alt="Most Used languages">
+  
+  <br>
+  
   <!-- 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=christian80gabi" alt="Week Stats"/>
   
   <br>
   -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christian80gabi&theme=transparent" alt="Overall Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christian80gabi&count_private=true&theme=transparent" alt="Overall Stats"/>
 </div>
 
 <!-- More GitHub Pins
