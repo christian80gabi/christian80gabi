@@ -30,14 +30,23 @@
 ## Some stats. Yay! 😁
 made with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christian80gabi&show_icons=true&theme=vue-dark&langs_count=8" alt="Most Used languages">
+  
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=christian80gabi&count_private=true&show_icons=true&theme=vue-dark" alt="GitHub Stats">
+  
+  <br>
+    
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christian80gabi&theme=github_dark" alt="Contributions"/>
+</div>
+
+<!-- More GitHub Pins
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
-
-![Christian Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=christian80gabi&count_private=true&show_icons=true&theme=vue-dark)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)]
+-->
