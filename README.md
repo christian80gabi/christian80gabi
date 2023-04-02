@@ -27,4 +27,9 @@
 - 📫 How to reach me: [![Twitter Badge](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fchristian80gabi)](https://twitter.com/christian80gabi)
 - ⚡ Fun fact: _Original name of Microsoft Windows was **“Interface Manager”**_ 😄
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+## Some stats. Yay! 😁
+made with (GitHub Readme Stats)[https://github.com/anuraghazra/github-readme-stats]
+
+[![Christian Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=christian80gabi&count_private=true&show_icons=true&theme=vue-dark)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christian80gabi)]
