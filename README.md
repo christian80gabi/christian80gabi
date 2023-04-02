@@ -30,10 +30,10 @@
 <br>
 
 ## Some stats. Yay! 😁
-made with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+made with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) & [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christian80gabi&count_private=true&theme=github_dark" height="400" alt="Overall Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christian80gabi&count_private=true&theme=gotham" height="400" alt="Overall Stats"/>
   
   <br><br>
   
