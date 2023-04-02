@@ -28,8 +28,8 @@
 - ⚡ Fun fact: _Original name of Microsoft Windows was **“Interface Manager”**_ 😄
 
 ## Some stats. Yay! 😁
-made with (GitHub Readme Stats)[https://github.com/anuraghazra/github-readme-stats]
+made with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
-[![Christian Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=christian80gabi&count_private=true&show_icons=true&theme=vue-dark)
+[![Christian Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=christian80gabi&count_private=true&show_icons=true&theme=vue-dark)]
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christian80gabi)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)]
