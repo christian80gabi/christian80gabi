@@ -29,7 +29,7 @@
 
 <br>
 
-## Some stats. Yay! 😁
+## Some stats (Only Public projects). Yay! 😁
 made with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
