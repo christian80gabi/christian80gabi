@@ -1,5 +1,28 @@
 # 📚 </**GitHub Overview**>
 
+```
+                                                                                                                                                                                                                             
+                                                                                                                                                                                                 bbbbbbbb                    
+        CCCCCCCCCCCCChhhhhhh                                 iiii                            tttt            iiii                                                  GGGGGGGGGGGGG                 b::::::b              iiii  
+     CCC::::::::::::Ch:::::h                                i::::i                        ttt:::t           i::::i                                              GGG::::::::::::G                 b::::::b             i::::i 
+   CC:::::::::::::::Ch:::::h                                 iiii                         t:::::t            iiii                                             GG:::::::::::::::G                 b::::::b              iiii  
+  C:::::CCCCCCCC::::Ch:::::h                                                              t:::::t                                                            G:::::GGGGGGGG::::G                  b:::::b                    
+ C:::::C       CCCCCC h::::h hhhhh      rrrrr   rrrrrrrrr  iiiiiii     ssssssssss   ttttttt:::::ttttttt    iiiiiii   aaaaaaaaaaaaa  nnnn  nnnnnnnn          G:::::G       GGGGGG  aaaaaaaaaaaaa   b:::::bbbbbbbbb    iiiiiii 
+C:::::C               h::::hh:::::hhh   r::::rrr:::::::::r i:::::i   ss::::::::::s  t:::::::::::::::::t    i:::::i   a::::::::::::a n:::nn::::::::nn       G:::::G                a::::::::::::a  b::::::::::::::bb  i:::::i 
+C:::::C               h::::::::::::::hh r:::::::::::::::::r i::::i ss:::::::::::::s t:::::::::::::::::t     i::::i   aaaaaaaaa:::::an::::::::::::::nn      G:::::G                aaaaaaaaa:::::a b::::::::::::::::b  i::::i 
+C:::::C               h:::::::hhh::::::hrr::::::rrrrr::::::ri::::i s::::::ssss:::::stttttt:::::::tttttt     i::::i            a::::ann:::::::::::::::n     G:::::G    GGGGGGGGGG           a::::a b:::::bbbbb:::::::b i::::i 
+C:::::C               h::::::h   h::::::hr:::::r     r:::::ri::::i  s:::::s  ssssss       t:::::t           i::::i     aaaaaaa:::::a  n:::::nnnn:::::n     G:::::G    G::::::::G    aaaaaaa:::::a b:::::b    b::::::b i::::i 
+C:::::C               h:::::h     h:::::hr:::::r     rrrrrrri::::i    s::::::s            t:::::t           i::::i   aa::::::::::::a  n::::n    n::::n     G:::::G    GGGGG::::G  aa::::::::::::a b:::::b     b:::::b i::::i 
+C:::::C               h:::::h     h:::::hr:::::r            i::::i       s::::::s         t:::::t           i::::i  a::::aaaa::::::a  n::::n    n::::n     G:::::G        G::::G a::::aaaa::::::a b:::::b     b:::::b i::::i 
+ C:::::C       CCCCCC h:::::h     h:::::hr:::::r            i::::i ssssss   s:::::s       t:::::t    tttttt i::::i a::::a    a:::::a  n::::n    n::::n      G:::::G       G::::Ga::::a    a:::::a b:::::b     b:::::b i::::i 
+  C:::::CCCCCCCC::::C h:::::h     h:::::hr:::::r           i::::::is:::::ssss::::::s      t::::::tttt:::::ti::::::ia::::a    a:::::a  n::::n    n::::n       G:::::GGGGGGGG::::Ga::::a    a:::::a b:::::bbbbbb::::::bi::::::i
+   CC:::::::::::::::C h:::::h     h:::::hr:::::r           i::::::is::::::::::::::s       tt::::::::::::::ti::::::ia:::::aaaa::::::a  n::::n    n::::n        GG:::::::::::::::Ga:::::aaaa::::::a b::::::::::::::::b i::::::i
+     CCC::::::::::::C h:::::h     h:::::hr:::::r           i::::::i s:::::::::::ss          tt:::::::::::tti::::::i a::::::::::aa:::a n::::n    n::::n          GGG::::::GGG:::G a::::::::::aa:::ab:::::::::::::::b  i::::::i
+        CCCCCCCCCCCCC hhhhhhh     hhhhhhhrrrrrrr           iiiiiiii  sssssssssss              ttttttttttt  iiiiiiii  aaaaaaaaaa  aaaa nnnnnn    nnnnnn             GGGGGG   GGGG  aaaaaaaaaa  aaaabbbbbbbbbbbbbbbb   iiiiiiii
+                                                                                                                                                                                                                             
+```
+
+
 <div align="center">
   <img src="assets/profile_illustration.svg" alt="</Hi>">
 </div>
@@ -111,9 +134,23 @@ A simple word game where you learn news words everyday or at every refresh.
 
 ---
 
-## 🫰🏾 </ Thank You! >
+```
 
-Thanks for stopping by!  
+__/\\\\\\\\\\\\\\\__/\\\_______________________________________________________________/\\\________/\\\_____________________________        
+ _\///////\\\/////__\/\\\_______________________________________/\\\___________________\///\\\____/\\\/______________________________       
+  _______\/\\\_______\/\\\______________________________________\/\\\_____________________\///\\\/\\\/________________________________      
+   _______\/\\\_______\/\\\__________/\\\\\\\\\_____/\\/\\\\\\___\/\\\\\\\\__________________\///\\\/__________/\\\\\_____/\\\____/\\\_     
+    _______\/\\\_______\/\\\\\\\\\\__\////////\\\___\/\\\////\\\__\/\\\////\\\__________________\/\\\_________/\\\///\\\__\/\\\___\/\\\_    
+     _______\/\\\_______\/\\\/////\\\___/\\\\\\\\\\__\/\\\__\//\\\_\/\\\\\\\\/___________________\/\\\________/\\\__\//\\\_\/\\\___\/\\\_   
+      _______\/\\\_______\/\\\___\/\\\__/\\\/////\\\__\/\\\___\/\\\_\/\\\///\\\___________________\/\\\_______\//\\\__/\\\__\/\\\___\/\\\_  
+       _______\/\\\_______\/\\\___\/\\\_\//\\\\\\\\/\\_\/\\\___\/\\\_\/\\\_\///\\\_________________\/\\\________\///\\\\\/___\//\\\\\\\\\__ 
+        _______\///________\///____\///___\////////\//__\///____\///__\///____\///__________________\///___________\/////______\/////////___
+
+
+```
+---
+
+🫰🏾 Thanks for stopping by!  
 If you like what you see, consider starring a repo or following me on social media.  
 Let’s keep building awesome stuff together! 🚀
 
@@ -121,7 +158,7 @@ Let’s keep building awesome stuff together! 🚀
 
 ## 📄 </ License >
 
-This README is released under the ** MIT License** – feel free to adapt it for your own profile.  
+This README is released under the **MIT License** – feel free to adapt it for your own profile.  
 See the [LICENSE](LICENSE) file in each repo for project‑specific terms.
 
 ---
