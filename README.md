@@ -19,7 +19,7 @@ Grab a coffee ☕️, read on, and feel free to reach out if something sparks cu
 | **Languages** | [![My Skills](https://skillicons.dev/icons?i=java,python,cs,ts,js,html,css,wasm,bash)](https://skillicons.dev) |
 | **Frameworks** | [![My Skills](https://skillicons.dev/icons?i=django,spring,dotnet,express,react,angular,bootstrap)](https://skillicons.dev) |
 | **Tools** | [![My Skills](https://skillicons.dev/icons?i=docker,vscode,github,gitlab,azure,androidstudio,idea)](https://skillicons.dev) |
-| **Open‑Source** | Working on in 😅 |
+| **Open‑Source** | Working on it 😅 |
 
 > *I love turning ideas into code that solves real problems.*
 
