@@ -35,6 +35,18 @@ Grab a coffee ☕️, read on, and feel free to reach out if something sparks cu
 
 ---
 
+## 📖 </ About Me >
+
+- **Full‑stack developer** with a passion for clean architecture.  
+- **Open‑source enthusiast** – contributing to tooling, libraries, and docs.  
+- **Linux fanatic** – running a tweaked Linux OS. **_I use Arch BTW_** 
+
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,ubuntu)](https://skillicons.dev)
+
+> *“Technology is poetry; Linux is my stage.”* — *Me* 😅
+
+---
+
 ## 🏗️ </ Project Highlights >
 
 | Feature | Description |
@@ -45,18 +57,6 @@ Grab a coffee ☕️, read on, and feel free to reach out if something sparks cu
 | **Open‑Source** | Working on it 😅 |
 
 > *I love turning ideas into code that solves real problems.*
-
----
-
-## 📖 </ About Me >
-
-- **Full‑stack developer** with a passion for clean architecture.  
-- **Open‑source enthusiast** – contributing to tooling, libraries, and docs.  
-- **Linux fanatic** – running a tweaked Linux OS. **_I use Arch BTW_** 
-
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,ubuntu)](https://skillicons.dev)
-
-> *“Technology is poetry; Linux is my stage.”* — *Me* 😅
 
 ---
 
