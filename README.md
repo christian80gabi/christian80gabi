@@ -121,8 +121,8 @@ Let’s keep building awesome stuff together! 🚀
 
 ## 📄 </ License >
 
-This README is released under the **MIT License** – feel free to adapt it for your own profile.  
-See the [LICENSE](LICENSE) file in each repo for project‑specific terms.
+This README is released under **The Unlicenced License** – feel free to adapt it for your own profile.  
+See the [LICENSE](./LICENSE) file in each repo for project‑specific terms.
 
 ---
 
